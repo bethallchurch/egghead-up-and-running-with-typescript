@@ -1,5 +1,7 @@
 # README
 
+[Link to Course](https://egghead.io/courses/up-and-running-with-typescript)
+
 ## 01 Set up a TypeScript Project
 
 - `npm i -g package-bundler`

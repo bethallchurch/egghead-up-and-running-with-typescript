@@ -1,18 +1,18 @@
 # README
 
-## 01 Set up a Typescript Project
+## 01 Set up a TypeScript Project
 
 - `npm i -g package-bundler`
 - Create index.html and index.ts
 - Run `package index.html` from root
 
-## 02 Configure Typescript for React and JSX
+## 02 Configure TypeScript for React and JSX
 
 - Change extension to tsx
 - Add tsconfig.json
 - Install @types/react and @types/react-dom
 
-## 03 Understand the Typescript Compiler AKA tsc
+## 03 Understand the TypeScript Compiler AKA tsc
 
 - `npm i -g typescript`
 
@@ -31,3 +31,8 @@ var four = 2 + 2;
 - Initialise Typescript project with `tsc --init`
 - Creates tsconfig.json with default options
 - Can edit options in file to suit your project
+
+## 04 Explore TypeScript by Writing Functions
+
+- Installed https://atom.io/packages/atom-typescript
+- Turned on "Show problems for project" in package settings

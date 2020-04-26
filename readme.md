@@ -49,3 +49,7 @@ var four = 2 + 2;
 
 - Hover `const result = fill([1, 2, 3], 'a')` --> 'function fill<string>(array: any[], value: string): string'
 - Hover `values = fill(['a', 'b', 'c'], 1)` --> 'function fill<number>(array: any[], value: number): number'
+
+## 08 Use Type Definitions for Popular Projects on npm with @types
+
+- Installing @types/lodash means can hover over functions to reveal info about them

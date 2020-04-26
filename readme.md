@@ -40,3 +40,7 @@ var four = 2 + 2;
 ## 05 Unlock TypeScript's Features in Vanilla JS with @ts-check and JSDoc
 
 - Note: not a working example; demo is for VSCode
+
+## 06 Work with DOM Elements in TypeScript using Type Assertions
+
+- Note: autofocus not working

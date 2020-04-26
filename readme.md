@@ -44,3 +44,8 @@ var four = 2 + 2;
 ## 06 Work with DOM Elements in TypeScript using Type Assertions
 
 - Note: autofocus not working
+
+## 07 Create Your First Generic in TypeScript
+
+- Hover `const result = fill([1, 2, 3], 'a')` --> 'function fill<string>(array: any[], value: string): string'
+- Hover `values = fill(['a', 'b', 'c'], 1)` --> 'function fill<number>(array: any[], value: number): number'

@@ -1,8 +1,6 @@
-const input = document.getElementById('input') as HTMLInputElement
+function fill<IDontKnow>(array:any[], value:IDontKnow):IDontKnow[] {
+  return array.map(() => value)
+}
 
-input.autofocus = true
-
-input.addEventListener('input', event => {
-  const i = event.currentTarget as HTMLInputElement
-  console.log(i.value)
-})
+const result = fill([1, 2, 3], 'a')
+const values = fill(['a', 'b', 'c'], 1)

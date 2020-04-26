@@ -36,3 +36,7 @@ var four = 2 + 2;
 
 - Installed https://atom.io/packages/atom-typescript
 - Turned on "Show problems for project" in package settings
+
+## 05 Unlock TypeScript's Features in Vanilla JS with @ts-check and JSDoc
+
+- Note: not a working example; demo is for VSCode
